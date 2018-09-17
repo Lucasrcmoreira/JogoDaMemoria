@@ -1,0 +1,10 @@
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe.config
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.exe
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\bin\Debug\JogoDaMemoria.pdb
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Form1.resources
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.Properties.Resources.resources
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.GenerateResource.cache
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.exe
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.pdb
+C:\Users\Lucas Ramos\Documents\projetos\JogoDaMemoria\JogoDaMemoria\obj\Debug\JogoDaMemoria.csprojAssemblyReference.cache
